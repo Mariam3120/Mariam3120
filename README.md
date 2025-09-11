@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋, My name is Mariam Grigolia
+
+🎯 I am a Front-End Developer in training
+🌱 Passionate about creating beautiful, user-friendly web experiences
+💻 Building projects with HTML, CSS, and JavaScript  
+🚀 Currently working on: Interactive To-Do App 
+📍 Based in Tbilisi, Georgia
 
 <!--
 **Mariam3120/Mariam3120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
