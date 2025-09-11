@@ -1,9 +1,13 @@
 ## Hi there 👋, My name is Mariam Grigolia
 
 🎯 I am a Front-End Developer in training
+
 🌱 Passionate about creating beautiful, user-friendly web experiences
+
 💻 Building projects with HTML, CSS, and JavaScript  
+
 🚀 Currently working on: Interactive To-Do App 
+
 📍 Based in Tbilisi, Georgia
 
 <!--
