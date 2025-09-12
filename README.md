@@ -1,4 +1,4 @@
-## Hi there 👋, My name is Mariam Grigolia
+## Hi there 👋, my name is Mariam Grigolia
 
 🎯 I am a Front-End Developer in training
 
