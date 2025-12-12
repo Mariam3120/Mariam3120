@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Hi, I'm Mariam Grigolia 🌟</h1>
+<h1 align="center">Hi, I'm Mariam Grigolia </h1>
 <h3 align="center">Front-End Developer in Training | Creative Explorer | Web Enthusiast</h3>
 
 <p align="center">
@@ -46,7 +46,7 @@ A polished wine store UI featuring:
 ### 🧡 Fun Facts About Me  
 - 🎭 I love creativity — design, arts, teaching, writing  
 - 🌈 I see the world in many colors (and try to express that in my code!)  
-- 🍷 I recently built a wine-themed project and now I think every website deserves a little elegance 😄  
+- 🍷 I recently built a wine-themed project, and now I think every website deserves a little elegance 😄  
 - 🐺 Working on a future brand named **Wolf Culinary** (because why not?)  
 
 ---
